@@ -25,6 +25,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity implements
         LoaderManager.LoaderCallbacks<ArrayList<NewsModel>> {
 
+
     private static final String TAG = "MainActivity";
     private ArrayList<NewsModel> mNewsArrListData;
     private NewsRecyclerViewAdapter mNewsRecyclerViewAdapter;
