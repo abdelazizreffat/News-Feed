@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="text_item_number">1</string>
+    <string name="text_section">Sports</string>
+    <string name="text_read_time">5 min read</string>
+    <string name="text_title">Windows 10 Your Phone app can now be used to make calls from Android phones</string>
+    <string name="text_trail">Windows 10 Your Phone app can now be used to make calls from Android phones Windows 10 Your Phone app can now be used to make calls from Android phones</string>
+    <string name="timer_icon">timer icon</string>
+    <string name="news_thumbnail_image">news thumbnail image</string>
+    <string name="text_date">Mon 9/09/19 , 9:24 PM</string>
+    <string name="by">By</string>
+    <string name="text_author">Matthew Humphrey\'s</string>
+    <string name="by_Anonymous">by anonymous</string>
+    <string name="dot">.</string>
+    <string name="loading">Loading…</string>
+    <string name="no_data">No data found</string>
+    <string name="no_internet">No internet connection !</string>
+</resources>
